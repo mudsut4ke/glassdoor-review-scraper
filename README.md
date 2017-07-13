@@ -2,6 +2,11 @@
 
 Glassdoor web scraper providing company's review data.
 
+## Clone project
+```
+$ git clone https://github.com/mudsut4ke/glassdoor-review-scraper.git
+```
+
 ## Installation
 - Python 2.7
 - Python 2.7 packages
