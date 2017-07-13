@@ -5,13 +5,15 @@ Glassdoor web scraper providing company's review data.
 ## Clone project
 ```
 $ git clone https://github.com/mudsut4ke/glassdoor-review-scraper.git
+$ cd cd glassdoor-review-scraper
 ```
 
-## Installation
+## Requirements
+- Google Chrome
 - Python 2.7
 - Python 2.7 packages
 ```
-$ pip install -r requirements.txt
+$ sudo pip install -r requirements.txt
 ```
 
 ## Usage
