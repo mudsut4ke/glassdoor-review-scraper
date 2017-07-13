@@ -5,7 +5,7 @@ Glassdoor web scraper providing company's review data.
 ## Clone project
 ```
 $ git clone https://github.com/mudsut4ke/glassdoor-review-scraper.git
-$ cd cd glassdoor-review-scraper
+$ cd glassdoor-review-scraper
 ```
 
 ## Requirements
