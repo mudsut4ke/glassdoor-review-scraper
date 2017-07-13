@@ -17,4 +17,4 @@ $ pip install -r requirements.txt
 ```
 $ python review_scraper.py
 ```
-6.After finish result will store in data.json
+5. After finish result will store in data.json
